@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nombre de la Aplicación</string>
+    <string name="registro_pedidos">Registro de pedidos</string>
+    <string name="hint_nombre_cliente">Nombre Cliente</string>
+    <string name="hint_numero_cliente">Número Cliente</string>
+    <string name="hint_productos">Productos</string>
+    <string name="hint_ciudad">Ciudad</string>
+    <string name="hint_direccion">Dirección</string>
+    <string name="registrar">Registrar</string>
+    <string name="llamar">Llamar</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="maps">Maps</string>
+</resources>
